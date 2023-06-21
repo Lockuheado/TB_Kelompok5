@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+Kelompok 5
+Alwan Ardana
+Muhamaad Qalam Ilmayasa
+Farhan Nurdiansyah
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
